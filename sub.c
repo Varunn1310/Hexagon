@@ -1,4 +1,4 @@
-// This program adds two hvx vectors
+// This program subtracts two hvx vectors
 
 #include <hvx_hexagon_protos.h>
 #include <hexagon_protos.h>
