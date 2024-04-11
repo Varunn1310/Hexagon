@@ -1,3 +1,4 @@
+// program to combine two hvx vectors into a hvx vecor pair
 #include <hvx_hexagon_protos.h>
 #include <hexagon_protos.h>
 #include <hexagon_types.h>
