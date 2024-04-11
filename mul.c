@@ -1,4 +1,4 @@
-// This program multiplies a hvx vector with a 32 bit vector value
+// This program multiplies a hvx vector with a 32 bit value
 
 #include <hvx_hexagon_protos.h>
 #include <hexagon_protos.h>
