@@ -1,4 +1,4 @@
-// This program adds two hvx vectors
+// This program computes the abs value of a hvx vector
 
 #include <hvx_hexagon_protos.h>
 #include <hexagon_protos.h>
